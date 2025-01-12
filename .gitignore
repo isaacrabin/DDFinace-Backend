@@ -1,0 +1,56 @@
+# .NET
+bin/
+obj/
+out/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer packaging files
+*.pdb
+*.idb
+*.log
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.swp
+*.swo
+*~.sw?
+
+# JetBrains Rider
+.idea/
+
+# Microsoft Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msp
+
+# SQLite database file
+policies.db
+
+# .env file or configuration files containing sensitive data
+.env
+
+# Npm or Node modules related
+node_modules/
+
+# Logs and crash dumps
+*.log
+crash.dmp
