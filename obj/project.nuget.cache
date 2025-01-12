@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4iWd7U0hrVDY5r3mKNFXuEirvieWoxHFjpSWm7buogd1yFQmNOcs73E4gWkDf8lZQcrclgfqaIYm7fz1akWnOA==",
+  "dgSpecHash": "xuFvlO1kInE7zsFic1nNS+U3mCZ4Pc/8xu//vJIyh3OiCPe7mUm/dhDT6SWUcBDRtHbDqTHJdXWxpK9PgkZPOA==",
   "success": true,
-  "projectFilePath": "/home/zeroman/DEVELOPMENT/PERSONAL/DOTNET/DDFinace-Backend/DDFinace-Backend.csproj",
+  "projectFilePath": "/home/zeroman/DEVELOPMENT/PERSONAL/DDFinace/DDFinace-Backend/DDFinace-Backend.csproj",
   "expectedPackageFiles": [
     "/home/zeroman/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/zeroman/.nuget/packages/microsoft.aspnetcore.openapi/7.0.19/microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",

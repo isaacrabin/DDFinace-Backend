@@ -1752,11 +1752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zeroman/DEVELOPMENT/PERSONAL/DOTNET/DDFinace-Backend/DDFinace-Backend.csproj",
+      "projectUniqueName": "/home/zeroman/DEVELOPMENT/PERSONAL/DDFinace/DDFinace-Backend/DDFinace-Backend.csproj",
       "projectName": "DDFinace-Backend",
-      "projectPath": "/home/zeroman/DEVELOPMENT/PERSONAL/DOTNET/DDFinace-Backend/DDFinace-Backend.csproj",
+      "projectPath": "/home/zeroman/DEVELOPMENT/PERSONAL/DDFinace/DDFinace-Backend/DDFinace-Backend.csproj",
       "packagesPath": "/home/zeroman/.nuget/packages/",
-      "outputPath": "/home/zeroman/DEVELOPMENT/PERSONAL/DOTNET/DDFinace-Backend/obj/",
+      "outputPath": "/home/zeroman/DEVELOPMENT/PERSONAL/DDFinace/DDFinace-Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zeroman/.nuget/NuGet/NuGet.Config"

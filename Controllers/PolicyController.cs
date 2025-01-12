@@ -16,14 +16,14 @@ namespace DDFinace_Backend.Controllers
             _context = context;
         }
 
-        // GET: api/Policies
+        // GET ALL Policies: api/Policies
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Policy>>> GetPolicies()
         {
             return await _context.Policies.ToListAsync();
         }
 
-        // GET: api/Policies/5
+        // GET a single policy: api/Policies/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Policy>> GetPolicyById(int id)
         {
@@ -35,7 +35,7 @@ namespace DDFinace_Backend.Controllers
             return policy;
         }
 
-        // POST: api/Policies
+        // POST New Policy: api/Policies
         [HttpPost]
         public async Task<ActionResult<Policy>> CreatePolicy(Policy policy)
         {
@@ -44,7 +44,7 @@ namespace DDFinace_Backend.Controllers
             return CreatedAtAction(nameof(GetPolicyById), new { id = policy.Id }, policy);
         }
 
-        // PUT: api/Policies/5
+        // Update a Policy: api/Policies/5
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdatePolicy(int id, Policy policy)
         {
@@ -71,7 +71,7 @@ namespace DDFinace_Backend.Controllers
             return NoContent();
         }
 
-        // DELETE: api/Policies/5
+        // DELETE a Policy: api/Policies/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> Deletepolicy(int id)
         {
